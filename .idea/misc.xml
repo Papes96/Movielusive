@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3105" />
+        <entry key="app/src/main/res/drawable/film_svg.xml" value="0.2525" />
+        <entry key="app/src/main/res/drawable/film_svgrepo_com.xml" value="0.2765" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3105" />
+        <entry key="app/src/main/res/drawable/shape_field_header.xml" value="0.268" />
+        <entry key="app/src/main/res/drawable/shape_field_round.xml" value="0.27" />
+        <entry key="app/src/main/res/drawable/shape_field_round12dp.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/shape_field_round24dp.xml" value="0.1455" />
+        <entry key="app/src/main/res/drawable/shape_poster_shadow.xml" value="0.3545" />
+        <entry key="app/src/main/res/font/manrope.xml" value="0.3854166666666667" />
+        <entry key="app/src/main/res/layout/acitivity_about.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_base.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.4855721393034826" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3081081081081081" />
+        <entry key="app/src/main/res/layout/activity_movie.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_about_app.xml" value="0.30720720720720723" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_circle_image.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_movie_grid.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_movie_linear.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_pill.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/layout_search.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/view_image_card.xml" value="0.33" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3105" />
+        <entry key="data/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

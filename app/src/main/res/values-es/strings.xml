@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movielusive</string>
+
+    <!--xml-content_descriptions-->
+    <string name="desc_movie_poster">Portada Película</string>
+    <string name="search_movies">Busca cualquier película</string>
+</resources>

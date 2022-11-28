@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Movielusive</string>
+    <string name="search_movies">Search for any movie</string>
+    <string name="release" translatable="false">Release: %s</string>
+
+<!--xml-content_descriptions-->
+    <string name="desc_movie_poster">Movie Poster</string>
+<!--xml-tools-->
+    <string name="tool_title" translatable="false">Fight Club</string>
+    <string name="tool_year" translatable="false">Released 6 Jul, 2022</string>
+    <string name="tool_plot" translatable="false">A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.</string>
 </resources>
